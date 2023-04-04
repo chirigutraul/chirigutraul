@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chirigutraul](https://github.com/chirigutraul)
 
-- 📫 How to reach me **chirigutraul@gmail.com**
+- 📫 You can reach me at : **chirigutraul@gmail.com**
 
-- ⚡ Fun fact **I like CLIs**
+- ⚡ Fun fact: **I like CLIs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
