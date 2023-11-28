@@ -4,9 +4,6 @@
 <img src='https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif' align='right' width='200px' height='200px'>
                                                                                                                    
 
-
-- 🔭 I’m currently working on [Alina Chirigut's Nail Salon Website](https://salon-alina-chirigut-chirigutraul.vercel.app/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/chirigutraul](https://github.com/chirigutraul)
 
 - 📫 You can reach me at : **chirigutraul@gmail.com**
