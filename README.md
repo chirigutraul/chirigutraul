@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">Full Stack Developer</h3>
-<div align="right" class="tenor-gif-embed" data-postid="27413015" data-share-method="host" data-aspect-ratio="1.28" data-width="100%"><a href="./guta-hackerman.gif">Guta Hackerman GIF</a>from <a href="https://tenor.com/search/guta-gifs">Guta GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<img src='./guta-hackerman.gif' align="right' width="256px" height="256px">
 
 - 👨‍💻 All of my projects are available at [https://github.com/chirigutraul](https://github.com/chirigutraul)
 
