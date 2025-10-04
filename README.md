@@ -1,7 +1,8 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://linkedin.com/in/https://www.linkedin.com/in/chirigutraul/)
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src='https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif' align='right' width='200px' height='200px'>
+<img src='https://tenor.com/view/guta-hackerman-gif-27413015' align='right' width='256px' height='256px'>
+
                                                                                                                    
 
 - 👨‍💻 All of my projects are available at [https://github.com/chirigutraul](https://github.com/chirigutraul)
