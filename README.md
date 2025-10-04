@@ -4,11 +4,13 @@
 <h3 align="center">Full Stack Developer</h3>
 <img src='./guta-hackerman.gif' align="right' width="256px" height="256px">
 
+<div style="max-width: 256px;">
 - 👨‍💻 All of my projects are available at [https://github.com/chirigutraul](https://github.com/chirigutraul)
 
 - 📫 You can reach me at : **chirigutraul@gmail.com**
 
 - ⚡ Fun fact: **I like CLIs**
+<div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
