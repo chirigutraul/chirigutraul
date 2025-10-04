@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src='./guta-hackerman.gif' align="right' width="256px" height="256px">
+<img src='./guta-hackerman.gif' align="right' width="200px" height="200px">
 
 <div style="max-width: 256px;">
 - 👨‍💻 All of my projects are available at [https://github.com/chirigutraul](https://github.com/chirigutraul)
